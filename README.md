@@ -1,2 +1,2 @@
 # JS-Game
-small game build using canvas and Vanilla JS
+small shooter game build using canvas and Vanilla JS
